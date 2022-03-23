@@ -1,3 +1,5 @@
 created page3 
 
 practicing going from remote to local
+
+part 2 is for updateing the file remotely
